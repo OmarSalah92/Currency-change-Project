@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+
+.form-select{
+    width: 100px;
+
+}
+
+.main{
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(to right, 
+    #4b6cb7, #182848);
+
+}
+
+.text{
+    text-align: center;
+    font-family: Cursive;
+    color: white;
+}
+
+input{
+    margin: auto;
+}
+
+.card{
+    width: 22rem;
+    height: 30rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+   background-color: darkgrey;
+}
+
+.firstHalf{
+height: 199px;
+width: 22rem;
+background-image: linear-gradient(to right, #283048 ,#859398 );
+
+}
+
+.secondHalf{
+height: 199px;
+width: 22rem;
+
+background-image: linear-gradient(to right, #232526,
+#414345 );
+}
+
+.select1{
+    text-align: center;
+    margin: auto;
+}
+.select2 {
+    text-align: center;
+    margin: auto;
+}
+
+
+.btn{
+    height: 52px;
+    background-image: linear-gradient(to right, 
+    #4b6cb7, #182848);
+}
+
+.result{
+    margin-bottom: 21px;
+    color: white;
+}
+
+.input1 {
+    text-align: center;
+}
